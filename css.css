@@ -1,0 +1,29 @@
+body{
+    background-color:sienna;
+}
+.gibson {
+    color: snow;
+    background-color:sienna;
+    font-size: 13pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.prs {
+    color: snow;
+    background-color: sienna;
+    font-size: 13pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.fender {
+    color: snow;
+    background-color:sienna;
+    font-size: 13pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.pocetni{
+    text-align: center;
+    color: snow;
+}
